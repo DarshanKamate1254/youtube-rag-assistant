@@ -17,6 +17,27 @@ This project demonstrates a practical implementation of modern AI system design 
 
 ---
 
+## 🧠 Learning Background & Reference  
+
+This project was inspired by the following Kaggle notebook:
+
+🔗 https://www.kaggle.com/code/derrickmwiti/langchain  
+
+I referred to the overall LangChain + RAG integration approach for conceptual understanding.  
+
+However, this repository represents an **independent reimplementation** with:
+
+- Rewritten modular codebase  
+- Adaptation for YouTube transcript ingestion  
+- Groq LLM integration for high-speed inference  
+- Token-based chunking strategy  
+- Streamlit-based user interface  
+- Improved project structure for production-style clarity  
+
+This project reflects hands-on experimentation and applied learning in building real-world RAG systems.
+
+---
+
 ## 🧠 Project Motivation  
 
 Large Language Models alone cannot access external knowledge reliably.  
@@ -81,26 +102,6 @@ The goal was to:
             └───────────────────┘
 ---
 
-## 🧠 Learning Background & Reference  
-
-This project was inspired by the following Kaggle notebook:
-
-🔗 https://www.kaggle.com/code/derrickmwiti/langchain  
-
-I referred to the overall LangChain + RAG integration approach for conceptual understanding.  
-
-However, this repository represents an **independent reimplementation** with:
-
-- Rewritten modular codebase  
-- Adaptation for YouTube transcript ingestion  
-- Groq LLM integration for high-speed inference  
-- Token-based chunking strategy  
-- Streamlit-based user interface  
-- Improved project structure for production-style clarity  
-
-This project reflects hands-on experimentation and applied learning in building real-world RAG systems.
-
----
 
 ## 🏗 Tech Stack  
 
