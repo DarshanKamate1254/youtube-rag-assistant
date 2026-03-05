@@ -162,5 +162,5 @@ python -m venv venv
 venv\Scripts\activate
 ```
 ```bash
-streamlit run app.py
+streamlit run youtube_rag_groq.py
 ```
